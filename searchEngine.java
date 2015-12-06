@@ -1,3 +1,6 @@
+// Kevin Li
+// Student #: 260565522
+// Dec 6, 2015
 import java.util.*;
 import java.io.*;
 
